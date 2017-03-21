@@ -60,7 +60,16 @@ h5 {
   padding: 10px 5%;
 
 }
+  
+#role {
+  color: #D7D7D7;
+  font-weight: bold;
+}
 
+#other {
+  color: #626262;
+  font-weight: bold;
+}
 
 .date-text {
   font-style: italic;
