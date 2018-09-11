@@ -1,11 +1,8 @@
-# Project Details
-## How do I complete this project?
-
 # Personal Resume Webpage
 
 The resume was constructed as part of the Front-end web development course from Udacity (Source: https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001). The final output is at https://eponkratova.github.io/resume/.
 
-### Requirements :
+## Requirements :
 The resume should have four distinct sections: work, education, projects and a header with biographical information.
 
   * `bio` contains:
